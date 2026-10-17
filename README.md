@@ -88,6 +88,3 @@ These features are still subject to ongoing development and testing.
 - Improve security and consistency in authentication flows.
 - Support cancellation in asynchronous operations.
 - Build a maintainable foundation for a Twitter-style backend.
-## Project Status
-
-This project is under active development. Features and architecture may evolve as implementation and testing continue.
